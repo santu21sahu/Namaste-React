@@ -1,2 +1,2 @@
 
-readme updated
+readme updated for episode 01
